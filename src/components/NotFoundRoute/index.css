@@ -1,0 +1,22 @@
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.not-found-img {
+  width: 50%;
+}
+.heading {
+  font-size: 34px;
+  font-weight: 700;
+  color: #334155;
+  margin-bottom: 10px;
+}
+.description {
+  font-size: 24px;
+  font-weight: 500;
+  color: #7b8794;
+  margin-bottom: 10px;
+}
